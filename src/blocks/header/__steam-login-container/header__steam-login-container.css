@@ -1,0 +1,8 @@
+.header__steam-login-container {
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    background-color: #371F4A;
+    display: flex;
+    align-items: center;
+}

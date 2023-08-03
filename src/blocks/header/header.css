@@ -1,0 +1,9 @@
+.header {
+    border-top: 7px solid #b499d9;
+    min-height: 50px;
+    max-height: 50px;
+    background-color: #43236C;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

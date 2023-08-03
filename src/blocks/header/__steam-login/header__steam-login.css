@@ -1,0 +1,17 @@
+.header__steam-login {
+    margin: 0 5px 0 20px;
+    padding: 0;
+    border: none;
+    outline: none;
+    width: 40px;
+    height: 40px;
+    background-color: #371F4A;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../../../images/steamLoginHover.svg);
+    opacity: 0.5;
+}
+
+.header__steam-login:hover {
+    opacity: 1;
+}

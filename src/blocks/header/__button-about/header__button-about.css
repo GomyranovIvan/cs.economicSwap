@@ -1,0 +1,9 @@
+.header__button-about {
+justify-self: right;
+margin-right: 30px;
+cursor: pointer;
+}
+
+.header__button-about:hover {
+    opacity: 0.8;
+}

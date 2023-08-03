@@ -1,0 +1,8 @@
+.header__button-stockpaper {
+    justify-self: left;
+    cursor: pointer;
+}
+
+.header__button-stockpaper:hover {
+    opacity: 0.8;
+}

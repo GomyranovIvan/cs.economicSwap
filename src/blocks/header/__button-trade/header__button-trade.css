@@ -1,0 +1,8 @@
+.header__button-trade {
+    justify-self: start;
+    cursor: pointer;
+}
+
+.header__button-trade:hover {
+    opacity: 0.8;
+}

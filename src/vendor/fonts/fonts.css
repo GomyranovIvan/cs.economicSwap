@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Russo one';
+    font-weight: 400;
+    src: url('./russo-one.woff') format('woff'),
+         url('./russo-one.woff2') format('woff2');
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+}
+
+@font-face {
+    font-family: 'WiGuru';
+    font-weight: 400;
+    src: url('./wiguru.woff') format('woff'),
+         url('./wiguru.woff2') format('woff2');
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+}

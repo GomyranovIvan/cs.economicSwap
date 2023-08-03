@@ -1,0 +1,12 @@
+.header__lang-container {
+    color: white;
+    font-family: 'WiGuru';
+    margin: 0;
+    padding: 0;
+    min-height: 50px;
+    max-height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #371F4A;
+}
