@@ -1,5 +1,5 @@
 import logo from "../../images/logo.svg"
-import titleLogo from "../../images/CS.ECONOMICSWAP-logo.svg"
+import headerTitleLogo from "../../images/CS.ECONOMICSWAP-logo.svg"
 import lang from "../../images/lang.svg"
 export default function Header() {
     return (
@@ -10,7 +10,7 @@ export default function Header() {
             alt="Лого" />
             <img
             className="header__title-logo"
-            src={titleLogo}
+            src={headerTitleLogo}
             alt="Название-лого" />
             <ul className="header__button-container">
                 <li className="header__button-trade">

@@ -1,0 +1,9 @@
+.footer__copyright {
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: "Roboto";
+  display: flex;
+  justify-content: flex-end;
+}
