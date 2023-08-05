@@ -1,0 +1,8 @@
+.contacts__vk {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.contacts__vk:hover {
+    opacity: 1;
+}

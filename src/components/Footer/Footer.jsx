@@ -42,7 +42,7 @@ export default function Footer() {
                         src={youtube} /></li>
                 </ul>
             </div>
-            <p className="footer__copyright">Copyright © 2023 <span className="footer__copyright-logo">CS.<span className="footer__copyright-logo-economic">ECONOMIC</span>SWAP</span>. Все права защищены.</p>
+            <p className="footer__copyright">Copyright © 2023.<span className="footer__copyright-logo">CS.<span className="footer__copyright-logo-economic">ECONOMIC</span>SWAP</span>. Все права защищены.</p>
         </footer>
     )
 }

@@ -1,3 +1,9 @@
 .footer__button-trade {
     font-size: 15px;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.footer__button-trade:hover {
+    opacity: 1;
 }

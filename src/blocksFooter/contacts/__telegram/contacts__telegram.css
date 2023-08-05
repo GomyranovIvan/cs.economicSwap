@@ -1,0 +1,8 @@
+.contacts__telegram {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.contacts__telegram:hover {
+    opacity: 1;
+}

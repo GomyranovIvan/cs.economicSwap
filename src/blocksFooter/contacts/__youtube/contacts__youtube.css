@@ -1,0 +1,8 @@
+.contacts__youtube {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.contacts__youtube:hover {
+    opacity: 1;
+}

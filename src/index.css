@@ -1,7 +1,6 @@
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts/fonts.css);
 @import url(./blocksHeader/header/header.css);
-@import url(./blocksMain/page/page.css);
 @import url(./blocksHeader/header/__logo/header__logo.css);
 @import url(./blocksHeader/header/__title-logo/header__title-logo.css);
 @import url(./blocksHeader/header/__button-container/header__button-container.css);
@@ -14,9 +13,12 @@
 @import url(./blocksHeader/header/__lang-button/header__lang-button.css);
 @import url(./blocksHeader/header/__steam-login-container/header__steam-login-container.css);
 @import url(./blocksHeader/header/__steam-login/header__steam-login.css);
+
+@import url(./blocksMain/page/page.css);
 @import url(./blocksMain/main/main.css);
 @import url(./blocksMain/main/__title/main__title.css);
 @import url(./blocksMain/main/__subtitle/main__subtitle.css);
+
 @import url(./blocksFooter/footer/footer.css);
 @import url(./blocksFooter/footer/__mainpart/footer__mainpart.css);
 @import url(./blocksFooter/footer/__button-container/footer__button-container.css);
@@ -43,3 +45,12 @@
 @import url(./blocksTrade/place-give/__basket/place-give__basket.css);
 @import url(./blocksTrade/place-give/__main/place-give__main.css);
 @import url(./blocksTrade/place-give/__text-placeholder/place-give__text-placeholder.css);
+@import url(./blocksTrade/place-get/place-get.css);
+@import url(./blocksTrade/place-get/__header/place-get__header.css);
+@import url(./blocksTrade/place-get/__title/place-get__title.css);
+@import url(./blocksTrade/place-get/__button-window-item/place-get__button-window-item.css);
+@import url(./blocksTrade/place-get/__sum-container/place-get__sum-container.css);
+@import url(./blocksTrade/place-get/__sum/place-get__sum.css);
+@import url(./blocksTrade/place-get/__basket/place-get__basket.css);
+@import url(./blocksTrade/place-get/__main/place-get__main.css);
+@import url(./blocksTrade/place-get/__text-placeholder/place-get__text-placeholder.css);
