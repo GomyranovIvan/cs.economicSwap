@@ -1,0 +1,10 @@
+.place-give__header {
+    font-family: 'WiGuru';
+    display: grid;
+    width: 580px;
+    grid-template-columns: 40px 120px 1fr;
+    margin: 0;
+    border-bottom: 1px solid #190D25;
+    height: 34px;
+    
+}

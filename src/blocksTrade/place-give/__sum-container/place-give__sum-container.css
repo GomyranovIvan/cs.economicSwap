@@ -1,0 +1,6 @@
+.place-give__sum-container {
+    display: flex;
+    justify-content: flex-end;
+    height: 34px;
+    column-gap: 3px;
+}

@@ -1,0 +1,18 @@
+.place-give__button-window-item {
+    margin: 0 0 0 15px;
+    padding: 0;
+    border: none;
+    outline: none;
+    width: 10px;
+    height: 5.5px;
+    background-color: #43236C;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../../../images/tradeButtonClose.svg);
+    cursor: pointer;
+    align-self: center;
+}
+
+.place-give__button-window-item:hover {
+    opacity: 0.6;
+}
