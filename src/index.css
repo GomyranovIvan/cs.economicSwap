@@ -1,5 +1,7 @@
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts/fonts.css);
+
+/* ---------------------------------------------------------------------------------------------------------------- */
 @import url(./blocksHeader/header/header.css);
 @import url(./blocksHeader/header/__logo/header__logo.css);
 @import url(./blocksHeader/header/__title-logo/header__title-logo.css);
@@ -14,11 +16,14 @@
 @import url(./blocksHeader/header/__steam-login-container/header__steam-login-container.css);
 @import url(./blocksHeader/header/__steam-login/header__steam-login.css);
 
+/* ---------------------------------------------------------------------------------------------------------------- */
 @import url(./blocksMain/page/page.css);
+
 @import url(./blocksMain/main/main.css);
 @import url(./blocksMain/main/__title/main__title.css);
 @import url(./blocksMain/main/__subtitle/main__subtitle.css);
 
+/* ---------------------------------------------------------------------------------------------------------------- */
 @import url(./blocksFooter/footer/footer.css);
 @import url(./blocksFooter/footer/__mainpart/footer__mainpart.css);
 @import url(./blocksFooter/footer/__button-container/footer__button-container.css);
@@ -26,16 +31,20 @@
 @import url(./blocksFooter/footer/__button-trade/footer__button-trade.css);
 @import url(./blocksFooter/footer/__button-info/footer__button-info.css);
 @import url(./blocksFooter/footer/__button-moreover/footer__button-moreover.css);
+
 @import url(./blocksFooter/contacts/contacts.css);
 @import url(./blocksFooter/contacts/__vk/contacts__vk.css);
 @import url(./blocksFooter/contacts/__telegram/contacts__telegram.css);
 @import url(./blocksFooter/contacts/__whatsapp/contacts__whatsapp.css);
 @import url(./blocksFooter/contacts/__youtube/contacts__youtube.css);
+
 @import url(./blocksFooter/footer/__copyright/footer__copyright.css);
 @import url(./blocksFooter/footer/__copyright-logo/footer__copyright-logo.css);
 @import url(./blocksFooter/footer/__copyright-logo-economic/footer__copyright-logo-economic.css);
 
+/* ---------------------------------------------------------------------------------------------------------------- */
 @import url(./blocksTrade/trade/trade.css);
+
 @import url(./blocksTrade/place-give/place-give.css);
 @import url(./blocksTrade/place-give/__header/place-give__header.css);
 @import url(./blocksTrade/place-give/__title/place-give__title.css);
@@ -45,6 +54,7 @@
 @import url(./blocksTrade/place-give/__basket/place-give__basket.css);
 @import url(./blocksTrade/place-give/__main/place-give__main.css);
 @import url(./blocksTrade/place-give/__text-placeholder/place-give__text-placeholder.css);
+
 @import url(./blocksTrade/place-get/place-get.css);
 @import url(./blocksTrade/place-get/__header/place-get__header.css);
 @import url(./blocksTrade/place-get/__title/place-get__title.css);
@@ -54,3 +64,7 @@
 @import url(./blocksTrade/place-get/__basket/place-get__basket.css);
 @import url(./blocksTrade/place-get/__main/place-get__main.css);
 @import url(./blocksTrade/place-get/__text-placeholder/place-get__text-placeholder.css);
+
+@import url(./blocksTrade/functional-panel/functional-panel.css);
+@import url(./blocksTrade/functional-panel/__submit-trade/functional-panel__submit-trade.css);
+@import url(./blocksTrade/functional-panel/__submit-trade-caption/functional-panel__submit-trade-caption.css);

@@ -1,0 +1,11 @@
+.functional-panel {
+    width: 230px;
+    min-height: 400px;
+    max-height: 400px;
+    background-color: #22112F;
+    border-radius: 10px;
+    color: white;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+}

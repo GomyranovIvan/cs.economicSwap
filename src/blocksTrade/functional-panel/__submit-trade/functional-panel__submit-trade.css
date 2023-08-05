@@ -1,0 +1,18 @@
+.functional-panel__submit-trade {
+    margin: 15px auto 15px auto;
+    padding: 0;
+    border: none;
+    outline: none;
+    background-color: #43236C;
+    width: 200px;
+    height: 60px;
+    border-radius: 7px;
+    justify-content: center;
+    font-family: 'WiGuru';
+    color: white;
+    font-size: 35px;
+}
+
+.functional-panel__submit-trade:hover {
+    color: #DE4949;
+}
