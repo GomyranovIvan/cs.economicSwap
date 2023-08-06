@@ -1,0 +1,6 @@
+.functional-panel__container-input {
+    display: flex;
+    width: 170px;
+    margin: 10px auto 0 auto;
+    justify-content: space-between;
+}

@@ -1,0 +1,17 @@
+.button__expand {
+    margin: 0 0 0 6px;
+    padding: 0;
+    border: none;
+    outline: none;
+    width: 13px;
+    height: 7.5px;
+    background-color: #371F4A;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../../../images/langButton.svg);
+    cursor: pointer;
+}
+
+.button__expand:hover {
+    opacity: 0.6;
+}

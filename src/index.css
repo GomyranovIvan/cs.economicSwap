@@ -2,6 +2,10 @@
 @import url(./vendor/fonts/fonts.css);
 
 /* ---------------------------------------------------------------------------------------------------------------- */
+@import url(./blocks/button/__collapse/button__collapse.css);
+@import url(./blocks/button/__expand/button__expand.css);
+
+/* ---------------------------------------------------------------------------------------------------------------- */
 @import url(./blocksHeader/header/header.css);
 @import url(./blocksHeader/header/__logo/header__logo.css);
 @import url(./blocksHeader/header/__title-logo/header__title-logo.css);
@@ -68,3 +72,9 @@
 @import url(./blocksTrade/functional-panel/functional-panel.css);
 @import url(./blocksTrade/functional-panel/__submit-trade/functional-panel__submit-trade.css);
 @import url(./blocksTrade/functional-panel/__submit-trade-caption/functional-panel__submit-trade-caption.css);
+@import url(./blocksTrade/functional-panel/__collapse-header-price/functional-panel__collapse-header-price.css);
+@import url(./blocksTrade/functional-panel/__display-price/functional-panel__display-price.css);
+@import url(./blocksTrade/functional-panel/__container-input/functional-panel__container-input.css);
+@import url(./blocksTrade/functional-panel/__input-price-start/functional-panel__input-price-start.css);
+@import url(./blocksTrade/functional-panel/__dash/functional-panel__dash.css);
+@import url(./blocksTrade/functional-panel/__input-price-end/functional-panel__input-price-end.css);

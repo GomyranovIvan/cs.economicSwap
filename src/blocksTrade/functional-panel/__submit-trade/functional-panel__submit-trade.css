@@ -4,13 +4,13 @@
     border: none;
     outline: none;
     background-color: #43236C;
-    width: 200px;
-    height: 60px;
+    width: 170px;
+    height: 40px;
     border-radius: 7px;
     justify-content: center;
     font-family: 'WiGuru';
     color: white;
-    font-size: 35px;
+    cursor: pointer;
 }
 
 .functional-panel__submit-trade:hover {

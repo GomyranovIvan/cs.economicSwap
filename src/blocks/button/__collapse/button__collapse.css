@@ -1,0 +1,19 @@
+.button__collapse{
+    justify-self: center;
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    width: 10px;
+    height: 5.5px;
+    background-color: #22112F;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../../../images/tradeButtonClose.svg);
+    cursor: pointer;
+    align-self: center;
+}
+
+.button__collapse:hover {
+    opacity: 0.6;
+}
