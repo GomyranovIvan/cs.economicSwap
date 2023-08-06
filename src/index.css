@@ -56,8 +56,9 @@
 @import url(./blocksTrade/place-give/__sum-container/place-give__sum-container.css);
 @import url(./blocksTrade/place-give/__sum/place-give__sum.css);
 @import url(./blocksTrade/place-give/__basket/place-give__basket.css);
-@import url(./blocksTrade/place-give/__main/place-give__main.css);
 @import url(./blocksTrade/place-give/__text-placeholder/place-give__text-placeholder.css);
+@import url(./blocksTrade/place-give/__main/place-give__main.css);
+@import url(./blocksTrade/place-give/__main/_active/place-give__main_active.css);
 
 @import url(./blocksTrade/place-get/place-get.css);
 @import url(./blocksTrade/place-get/__header/place-get__header.css);

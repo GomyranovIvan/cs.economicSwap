@@ -3,7 +3,12 @@
     display: grid;
     grid-template-columns: 40px 120px 1fr;
     margin: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
     border-bottom: 1px solid #190D25;
-    height: 34px;
+    background-color: #43236C;
+    height: 40px;
     cursor: pointer;
 }
