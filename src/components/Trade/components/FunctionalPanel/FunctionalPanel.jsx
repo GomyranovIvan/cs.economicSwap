@@ -18,7 +18,7 @@ export default function FunctionalPanel() {
                 <button className="button__collapse"></button>
             </div>
             <div className="functional-panel__container-buttuns-block-trade">
-                <button className="functional-panel__button-block-trade">&lt;1</button>
+                <button className="functional-panel__button-block-trade">&lt; 1</button>
                 <button className="functional-panel__button-block-trade">2</button>
                 <button className="functional-panel__button-block-trade">3</button>
                 <button className="functional-panel__button-block-trade">4</button>
@@ -26,6 +26,32 @@ export default function FunctionalPanel() {
                 <button className="functional-panel__button-block-trade">6</button>
                 <button className="functional-panel__button-block-trade">7</button>
             </div>
+            <div className="functional-panel__collapse-header">
+                <p className="functional-panel__lettering-collapse">Качество</p>
+                <button className="button__collapse"></button>
+            </div>
+            <ul className="functional-panel__container-buttons-filter">
+                <li className="functional-panel__button-filter">Прямо с завода</li>
+                <li className="functional-panel__button-filter">Немного поношенное</li>
+                <li className="functional-panel__button-filter">После полевых испытаний</li>
+                <li className="functional-panel__button-filter">Поношенное</li>
+                <li className="functional-panel__button-filter">Закалённое в боях</li>
+            </ul>
+            <div className="functional-panel__collapse-header">
+                <p className="functional-panel__lettering-collapse">Тип</p>
+                <button className="button__collapse"></button>
+            </div>
+            <ul className="functional-panel__container-buttons-filter">
+                <li className="functional-panel__button-filter">Нож</li>
+                <li className="functional-panel__button-filter">Перчатки</li>
+                <li className="functional-panel__button-filter">Пистолет</li>
+                <li className="functional-panel__button-filter">Пистолет-пулемёт</li>
+                <li className="functional-panel__button-filter">Штурмовая винтовка</li>
+                <li className="functional-panel__button-filter">Снайперская винтовка</li>
+                <li className="functional-panel__button-filter">Дробовик</li>
+                <li className="functional-panel__button-filter">Пулемёт</li>
+                <li className="functional-panel__button-filter">Stat-Track™</li>
+            </ul>
         </section>
     )
 }

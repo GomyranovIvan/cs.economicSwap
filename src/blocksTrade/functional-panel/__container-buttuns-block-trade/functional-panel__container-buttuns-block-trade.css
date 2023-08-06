@@ -1,9 +1,8 @@
 .functional-panel__container-buttuns-block-trade {
     display: flex;
     flex-wrap: wrap;
-    column-gap: 5px;
-    row-gap: 5px;
     margin: 15px auto 0 auto;
     width: 170px;
+    justify-content: space-between;
     
 }
