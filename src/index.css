@@ -72,9 +72,11 @@
 @import url(./blocksTrade/functional-panel/functional-panel.css);
 @import url(./blocksTrade/functional-panel/__submit-trade/functional-panel__submit-trade.css);
 @import url(./blocksTrade/functional-panel/__submit-trade-caption/functional-panel__submit-trade-caption.css);
-@import url(./blocksTrade/functional-panel/__collapse-header-price/functional-panel__collapse-header-price.css);
-@import url(./blocksTrade/functional-panel/__display-price/functional-panel__display-price.css);
+@import url(./blocksTrade/functional-panel/__collapse-header/functional-panel__collapse-header.css);
+@import url(./blocksTrade/functional-panel/__lettering-collapse/functional-panel__lettering-collapse.css);
 @import url(./blocksTrade/functional-panel/__container-input/functional-panel__container-input.css);
 @import url(./blocksTrade/functional-panel/__input-price-start/functional-panel__input-price-start.css);
 @import url(./blocksTrade/functional-panel/__dash/functional-panel__dash.css);
 @import url(./blocksTrade/functional-panel/__input-price-end/functional-panel__input-price-end.css);
+@import url(./blocksTrade/functional-panel/__container-buttuns-block-trade/functional-panel__container-buttuns-block-trade.css);
+@import url(./blocksTrade/functional-panel/__button-block-trade/functional-panel__button-block-trade.css);

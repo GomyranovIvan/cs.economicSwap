@@ -1,7 +1,6 @@
 .place-get__header {
     font-family: 'WiGuru';
     display: grid;
-    width: 580px;
     grid-template-columns: 1fr 120px 40px;
     margin: 0;
     border-bottom: 1px solid #190D25;

@@ -1,6 +1,6 @@
-.functional-panel__collapse-header-price {
+.functional-panel__collapse-header {
     width: 170px;
     display: flex;
     justify-content: space-between;
-    margin: 0 auto;
+    margin: 15px auto 0 auto;
 }

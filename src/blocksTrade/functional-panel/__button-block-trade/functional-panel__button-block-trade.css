@@ -1,0 +1,20 @@
+.functional-panel__button-block-trade {
+    width: 30px;
+    border: none;
+    padding: 1px;
+    padding-top: 4px;
+    border-radius: 6px;
+    height: 27px;
+    background-color: #371F4A;
+    font-family: 'WiGuru';
+    font-size: 20px;
+    color: white;
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.functional-panel__button-block-trade:hover {
+    opacity: 1;
+    border: 1px solid white;
+    padding-top: 3px;
+}

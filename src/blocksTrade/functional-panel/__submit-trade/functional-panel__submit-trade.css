@@ -1,5 +1,5 @@
 .functional-panel__submit-trade {
-    margin: 15px auto 15px auto;
+    margin: 15px auto 0 auto;
     padding: 0;
     border: none;
     outline: none;
@@ -7,7 +7,6 @@
     width: 170px;
     height: 40px;
     border-radius: 7px;
-    justify-content: center;
     font-family: 'WiGuru';
     color: white;
     cursor: pointer;
