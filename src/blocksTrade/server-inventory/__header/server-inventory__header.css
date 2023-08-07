@@ -1,0 +1,11 @@
+.server-inventory__header {
+    background-color: #2C193C;
+    border-bottom: 2px solid #190D25;
+    margin: 10px 0 0 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

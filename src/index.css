@@ -49,6 +49,10 @@
 /* ---------------------------------------------------------------------------------------------------------------- */
 @import url(./blocksTrade/trade/trade.css);
 
+@import url(./blocksTrade/trade-user/trade-user.css);
+
+@import url(./blocksTrade/trade-server/trade-server.css);
+
 @import url(./blocksTrade/place-give/place-give.css);
 @import url(./blocksTrade/place-give/__header/place-give__header.css);
 @import url(./blocksTrade/place-give/__title/place-give__title.css);
@@ -58,7 +62,6 @@
 @import url(./blocksTrade/place-give/__basket/place-give__basket.css);
 @import url(./blocksTrade/place-give/__text-placeholder/place-give__text-placeholder.css);
 @import url(./blocksTrade/place-give/__main/place-give__main.css);
-@import url(./blocksTrade/place-give/__main/_active/place-give__main_active.css);
 
 @import url(./blocksTrade/place-get/place-get.css);
 @import url(./blocksTrade/place-get/__header/place-get__header.css);
@@ -83,3 +86,15 @@
 @import url(./blocksTrade/functional-panel/__button-block-trade/functional-panel__button-block-trade.css);
 @import url(./blocksTrade/functional-panel/__container-buttons-filter/functional-panel__container-buttons-filter.css);
 @import url(./blocksTrade/functional-panel/__button-filter/functional-panel__button-filter.css);
+
+@import url(./blocksTrade/user-inventory/user-inventory.css);
+@import url(./blocksTrade/user-inventory/__header/user-inventory__header.css);
+@import url(./blocksTrade/user-inventory/__refresh/user-inventory__refresh.css);
+@import url(./blocksTrade/user-inventory/__search/user-inventory__search.css);
+@import url(./blocksTrade/user-inventory/__main/user-inventory__main.css);
+
+@import url(./blocksTrade/server-inventory/server-inventory.css);
+@import url(./blocksTrade/server-inventory/__header/server-inventory__header.css);
+@import url(./blocksTrade/server-inventory/__main/server-inventory__main.css);
+@import url(./blocksTrade/server-inventory/__refresh/server-inventory__refresh.css);
+@import url(./blocksTrade/server-inventory/__search/server-inventory__search.css);
