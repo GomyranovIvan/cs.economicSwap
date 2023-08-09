@@ -1,4 +1,6 @@
 .main {
     height: 78vh;
+    background: url(../../images/mainAK-47.svg) no-repeat 100%;
     background-color: #190D25;
+    background-size: 70em auto;
 }

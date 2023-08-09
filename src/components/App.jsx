@@ -1,19 +1,16 @@
 import { Routes, Route } from 'react-router-dom';
-import Footer from "./Footer/Footer";
-import Header from "./Header/Header";
 import Main from "./Main/Main"
 import Trade from "./Trade/Trade"
+import Layout from './Layout/Layout';
 
 function App() {
   return (
-    <div className="page">
-      <Header />
       <Routes>
-          <Route path="/" element={<Main />} />
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Main />} />
           <Route path="/trade" element={<Trade />} />
+        </Route>
       </Routes>
-      <Footer />
-    </div>
   );
 }
 

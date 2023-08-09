@@ -2,9 +2,10 @@
     color: white;
     display: grid;
     font-family: 'Russo one';
-    margin: 0 10px 0 30px;
+    margin: 5px 10px 0 30px;
     padding: 0;
     list-style-type: none;
     width: 100%;
-    grid-template-columns: 90px 150px 1fr;
+    grid-template-columns: 90px 150px;
+    border-radius: 10px;
 }

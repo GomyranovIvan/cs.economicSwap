@@ -1,6 +1,7 @@
 import logo from "../../images/logo.svg"
 import headerTitleLogo from "../../images/CS.ECONOMICSWAP-logo.svg"
 import lang from "../../images/lang.svg"
+import { NavLink } from "react-router-dom"
 export default function Header() {
     return (
         <header className="header">
@@ -8,20 +9,20 @@ export default function Header() {
             className="header__logo"
             src={logo}
             alt="Лого" />
+            <NavLink to="/">
             <img
             className="header__title-logo"
             src={headerTitleLogo}
-            alt="Название-лого" />
+            alt="Название-лого" 
+            />
+            </NavLink>
             <ul className="header__button-container">
-                <li className="header__button-trade">
+                <NavLink to="/trade" className="header__button-trade">
                     Обмен
-                </li>
-                <li className="header__button-stockpaper">
+                </NavLink>
+                <NavLink to="/stockpaper" className="header__button-stockpaper">
                     Биржа бумаг
-                </li>
-                <li className="header__button-about">
-                    О нас
-                </li>
+                </NavLink>
             </ul>
             <div className="header__lang-container">
                 <p className="header__lang-title">RU</p>

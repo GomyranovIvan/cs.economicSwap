@@ -5,10 +5,10 @@ import InputsPrice from "./components/InputsPrice/InputsPrice";
 import { useState } from "react";
 
 export default function FunctionalPanel() {
-    const [inputsPriceActive, setInputsPriceActive] = useState(false)
-    const [buttonsBlockTradeActive, setButtonsBlockTradeActive] = useState(false)
-    const [buttonsFilterExteriorActive, setButtonsFilterExteriorActive] = useState(false)
-    const [buttonsFilterTypeActive, setButtonsFilterTypeActive] = useState(false)
+    const [inputsPriceActive, setInputsPriceActive] = useState(true)
+    const [buttonsBlockTradeActive, setButtonsBlockTradeActive] = useState(true)
+    const [buttonsFilterExteriorActive, setButtonsFilterExteriorActive] = useState(true)
+    const [buttonsFilterTypeActive, setButtonsFilterTypeActive] = useState(true)
     return (
         <section className="functional-panel">
             <button className="functional-panel__submit-trade">

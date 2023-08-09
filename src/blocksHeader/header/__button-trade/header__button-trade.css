@@ -1,6 +1,8 @@
 .header__button-trade {
     justify-self: start;
     cursor: pointer;
+    text-decoration: none;
+    color: white
 }
 
 .header__button-trade:hover {

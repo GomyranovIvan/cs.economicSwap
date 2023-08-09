@@ -1,6 +1,8 @@
 .header__button-stockpaper {
     justify-self: left;
     cursor: pointer;
+    text-decoration: none;
+    color: white
 }
 
 .header__button-stockpaper:hover {
